@@ -7,7 +7,7 @@ def play_youtube_song(song_title):
     results = videos_search.result()
 
     if results['result']:
-        # Extract the video URL from the search results
+        # Extract the video URL from the search result
         video_url = results['result'][0]['link']
         
         # Open the video URL in a web browser
