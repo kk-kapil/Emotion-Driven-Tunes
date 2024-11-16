@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-dataset=pd.read_csv('data_moods.csv') #import the dataset
+dataset=pd.read_csv('data_moods.csv') #import
 
 ## The dataset has been taken from kaggle
 
