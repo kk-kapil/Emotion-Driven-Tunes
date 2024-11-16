@@ -5,10 +5,10 @@
 ## completely different emotion as perceived by the model. To solve this problem, the camera window is opened
 ## for only 5 seconds and the most common emotion recorded in that time frame is used for any further steps.
 
-
+import tensorflow
 import cv2
 import numpy as np
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 from statistics import mode
 from utils.datasets import get_labels
 from utils.inference import detect_faces
