@@ -1,7 +1,6 @@
 # EMOTION_DRIVEN_TUNES
 # Music-Recommendation-using-real-time-Facial-Expressions
-# Authors- JATIN YADAV & KAPIL KUMAR
-An application as a part of Software Engineering project made by which detects the user's facial expressions in real time and accordingly, plays a suitable song based on the perceived emotion.
+An application by which we detects the user's facial expressions in real time and accordingly, plays a suitable song based on the perceived emotion.
 The application uses a pre-trained model for emotion or mood recognition which has been trained on Kaggle's 'Fer2013' dataset.
 The project's working is divided into three major steps:
 1. Facial expression recognition
