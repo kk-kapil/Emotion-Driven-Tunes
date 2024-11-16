@@ -1,4 +1,4 @@
-## Authors- JATIN YADAV & KAPIL KUMAR
+
 ## This is the driving code for the emotion recognition part of the application using numpy,opencv and keras.
 ## The model has been trained on the 'fer2023' dataset from kaggle.
 ## Its should be noted that the model is not 100% accurate and any slight change in facial expression results in a 
